@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/GTR0N6D/git-coder-nafiz.png" alt="MasterHead" width="800" height="200">
+<img src="gitcovernafiz.png" alt="MasterHead" width="800" height="200">
 <h1 align="center">Assalamualykum 🤝, This is Nafizul Islam (Noyon)</h1>
 <h3 align="center">When I write code, I write code with fun. So, I never get bored.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
