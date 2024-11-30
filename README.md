@@ -1,17 +1,17 @@
 <img src="gitcovernafiz.png" alt="MasterHead" width="800" height="200">
-<h1 align="center">Assalamualykum 🤝, This is Nafizul Islam (Noyon)</h1>
-<h3 align="center">When I write code, I write code with fun. So, I never get bored.</h3>
+<h1 align="center">Assalamualykum 🤝. Ich heiße Noyon</h1>
+<h3 align="center">Wenn ich programmiere, mache ich das zum Spaß. Deshalb langweile ich mich nie.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiz-swe&label=Profile%20views&color=0e75b6&style=flat" alt="nafiz-swe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ShosurBari.com](https://github.com/NAFIZ-SWE/ProtidinGerman)
+- 🔭 Ich arbeite derzeit an [Lear Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
 
-- 🌱 Ich lerne derzeit **Datenwissenschaft mit Python** | OSTAD.
+- 🌱 Aktuell: **Datenwissenschaft mit Python** | OSTAD.
 
-- - 🌱 Ich habe den Kurs **PHP mit Laravel** abgeschlossen | OSTAD.
+- 🌱 Kurs in **PHP mit Laravel** abgeschlossen | OSTAD.
 
 - 💬 Frag mich über **Datenwissenschaft | Python**
 
@@ -30,7 +30,6 @@
 <a href="https://instagram.com/nafiz.swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafiz.swe.diu" height="30" width="40" /></a>
 </p>
 &nbsp;
-
 <h3 align="left">Data Science</h3>
 <p align="left">
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
@@ -50,7 +49,6 @@
   </a>
 </p>
 &nbsp;
-
 <h3 align="left">Backend</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -67,7 +65,6 @@
 </a>
 </p>
 &nbsp;
-
 <h3 align="left">Frontend</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -90,7 +87,6 @@
   </p>
 </p>
 &nbsp;
-
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -98,7 +94,6 @@
   </a> 
 </p>
 &nbsp;
-
 <h3 align="left">Development Tools & IDEs</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
@@ -112,9 +107,8 @@
   </a>
 </p>
 &nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=en" alt="nafiz-swe" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=en&layout=compact" alt="nafiz-swe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=en" alt="nafiz-swe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nafiz-swe&theme=algolia&border_radius=5.5&locale=de" alt="GitHub Streak" /></p>
