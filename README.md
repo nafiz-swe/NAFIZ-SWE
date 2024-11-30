@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Lear Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
+- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
 
 - 🌱 Aktuell: **Datenwissenschaft mit Python** | OSTAD.
 
@@ -19,7 +19,7 @@
 
 - 📫 So erreichst du mich **nafizulislam.swe@gmail.com**
 
-- ⚡ Fun Fact **Ich esse Python und PHP**
+- ⚡ Interessante Tatsache: **Ich esse Python und PHP**
 &nbsp;
 
 <h3 align="left">Verbinde dich mit mir</h3>
