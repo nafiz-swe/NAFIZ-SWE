@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe-diu&show_icons=true&locale=en" alt="nafiz-swe-diu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafiz-swe-diu&" alt="nafiz-swe-diu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nafiz-swe&theme=algolia&border_radius=5.5&locale=de" alt="GitHub Streak" /></p>
