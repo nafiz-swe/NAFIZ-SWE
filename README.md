@@ -13,7 +13,7 @@
 
 - 🌱 Kurs in **PHP mit Laravel** abgeschlossen | OSTAD.
 
-- 💬 Frag mich über **Datenwissenschaft | Python**
+- 💬 Frag mich über **Datenwissenschaft**
 
 - 💬 Frag mich über **PHP**
 
