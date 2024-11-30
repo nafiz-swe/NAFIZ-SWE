@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p>
-<h3 align="left">Backend</h3>
+<h3 align="left">Backend | Web</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -62,7 +62,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 </p>
-<h3 align="left">Frontend</h3>
+<h3 align="left">Frontend | Web</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -83,14 +83,13 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </p>
 </p>
-<h3 align="left">Database</h3>
+<h3 align="left">Database | Web</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a> 
 </p>
-&nbsp;
-<h3 align="left">Development Tools & IDEs</h3>
+<h3 align="left">Development Tools & IDEs | Web</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
@@ -102,8 +101,8 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=en" alt="nafiz-swe" /></p>
-&nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=en&layout=compact" alt="nafiz-swe" /></p>
-&nbsp;
+</br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=en" alt="nafiz-swe" /></p>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nafiz-swe&theme=algolia&border_radius=5.5&locale=de" alt="GitHub Streak" /></p>
