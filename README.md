@@ -101,6 +101,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=en&layout=compact" alt="nafiz-swe" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=en" alt="nafiz-swe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=de&layout=compact" alt="nafiz-swe" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=de" alt="nafiz-swe" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nafiz-swe&theme=algolia&border_radius=5.5&locale=de" alt="GitHub Streak" /></p>
