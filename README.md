@@ -103,4 +103,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafiz-swe&show_icons=true&locale=de&layout=compact" alt="nafiz-swe" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nafiz-swe&show_icons=true&locale=de" alt="nafiz-swe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nafiz-swe&theme=algolia&border_radius=5.5&locale=de" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=nafiz-swe&theme=algolia&locale=de" alt="GitHub Streak" /></p>
