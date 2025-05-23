@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/NAFIZ-SWE/ShosurBari.com)
+- 🔭 Ich arbeite derzeit an [Learn Deutsch](https://github.com/NAFIZ-SWE/MissionGermany)
 
 - 🌱 Aktuell: **Datenwissenschaft mit Python** | OSTAD.
 
