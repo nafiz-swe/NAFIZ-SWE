@@ -1,4 +1,4 @@
-<img src="nafiz-noyon-github.gif" alt="MasterHead" width="" height="">
+<img src="nafiz-swe-github.gif" alt="MasterHead" width="" height="">
 <h1 align="center">Assalamualykum 🤝. Ich heiße Noyon</h1>
 <h3 align="center">Wenn ich programmiere, mache ich das zum Spaß. Deshalb langweile ich mich nie.</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-4b695f72ac7737ce5b36508a0058dd02">
